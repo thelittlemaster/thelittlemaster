@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thelittlemaster
-- 👀 I’m interested in java
-- 🌱 I’m currently learning typescript
+- 👀 I’m interested in java,python,js,ts and so on
+- I am currently dedicated to studying AI.
+- 🌱 I’m currently learning typescript, python. 
 
 <!---
 thelittlemaster/thelittlemaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
